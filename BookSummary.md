@@ -1,3 +1,5 @@
+# Book Summary
+
 "Part One - Overview: Provides an overview of computer organization and architecture and looks at how computer design has evolved."
 
 Phần Một - Nhìn Tổng Quan: Đưa ra cái nhìn tổng quan về tổ chức và kiến trúc máy tính và xem thiết kế máy tính đã tiến triển / tiến hóa (?) như thế nào.
